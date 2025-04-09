@@ -1,0 +1,38 @@
+{
+    "assetFile": "Linked File-png.png",
+    "assetUrl": "",
+    "name": "Linked File-png",
+    "category": "Static",
+    "role": "Characters",
+    "exportedItemType": "",
+    "autoKeywords": [],
+    "keywords": [],
+    "subCategory": "Objects",
+    "hasAudio": false,
+    "riggable": false,
+    "renditions": {
+        "static": {
+            "rectangle": [
+                "Linked File-png__an__r1x.png",
+                "Linked File-png__an__r2x.png"
+            ],
+            "square": [
+                "Linked File-png__an__s1x.png",
+                "Linked File-png__an__s2x.png"
+            ]
+        },
+        "dynamic": {
+            "rectangle": [],
+            "square": []
+        }
+    },
+    "fileInfo": {
+        "guid": "c81fc420-76e0-4bc1-a71f-139cec6f72e3",
+        "fileType": "manifest",
+        "version": "2.0",
+        "generator": "24.0.70"
+    },
+    "authorName": "",
+    "copyright": "",
+    "description": ""
+}
